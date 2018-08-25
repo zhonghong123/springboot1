@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gnete
+Build-Jdk: 1.7.0_51
+Built-By: hong
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://www.example.com
+
